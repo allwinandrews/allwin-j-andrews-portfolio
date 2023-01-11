@@ -67,6 +67,20 @@
       "description": "ReactJS",
       "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
       "url": "https://curious-check-app-dev.herokuapp.com/"
+    },
+    {
+      "id": "7",
+      "title": "Great Quotes",
+      "description": "ReactJS",
+      "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "https://react-prep-35e11.web.app/"
+    },
+    {
+      "id": "8",
+      "title": "React Meetups",
+      "description": "Next.js",
+      "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "https://nextjs-meetups-three.vercel.app/"
     }
   ],
   "services": [
