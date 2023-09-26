@@ -16,7 +16,7 @@ const Footer = ({}) => {
             <h1 className="text-3xl tablet:text-6xl laptop:text-6xl laptopl:text-8xl text-bold">
               TOGETHER
             </h1>
-            <a href="tel:+917907440659">
+            <a href="tel:+447407488379">
               <Button type="primary">Schedule a call</Button>
             </a>
             <div className="mt-10">

@@ -1,9 +1,9 @@
 {
   "name": "Allwin",
   "headerTaglineOne": "Hello 👋",
-  "headerTaglineTwo": "I'm Allwin J Andrews - curious",
+  "headerTaglineTwo": "I'm Allwin J Andrews",
   "headerTaglineThree": "Software Engineer",
-  "headerTaglineFour": " based in Kerala, India.",
+  "headerTaglineFour": " based in London, United Kingdom.",
   "showCursor": true,
   "showBlog": false,
   "darkMode": true,
@@ -28,57 +28,78 @@
   "projects": [
     {
       "id": "1",
-      "title": "GetLeadforms",
-      "description": "ReactJS",
+      "title": "GetLeadforms ( ReactJS )",
+      "description": "Developed services which helps you build high converting lead forms that engage, qualify, and convert your website visitors into leads. LeadForm can be added to any website or landing page without absolutely no coding needed.",
       "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
       "url": "https://go.getleadforms.com/"
     },
     {
       "id": "2",
-      "title": "ClickScout",
-      "description": "ReactJS",
+      "title": "ClickScout ( ReactJS )",
+      "description": "Developed web application which tracks content analytics & platforms to help you understand how your content is performing from an ROI & conversion perspective. It combines your content with Google Search Console & your payment processor, so you can see the ROI of your content marketing efforts.",
       "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "https://staging.getclickscout.com/"
+      "url": "https://clickscout.ai/"
     },
     {
       "id": "3",
-      "title": "Project4",
-      "description": "ReactJS",
+      "title": "StyleHR (HRMS for RAMACHANDRAN RETAIL PVT LTD) ( ReactJS )",
+      "description": "Created a ReactJS app integrated with Django-based HR Management System for Ramachandran Private Limited. simplifies the complexities of managing multiple firms, departments, designations, and stores, all in one place. With features like shift scheduling, weekoff allocation, holiday tracking, and statutory compliance management, it streamlines HR tasks. It also offers a customizable salary template builder and automatic TDS calculations, ensuring payroll accuracy. StyleHR enhances efficiency, scalability, and data security, making it an essential tool to manage their workforce seamlessly and compliantly. The backend uses Django, DRF, Postgres, and Celery for seamless performance.",
+      "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "https://stylehr.in/"
+    },
+    {
+      "id": "4",
+      "title": "Jackpot ( ReactJS )",
+      "description": "Developed web application to elevate your Discord community experience. With Jackpot, Discord administrators like myself can effortlessly register their communities on the platform, granting access to both real-time and cumulative leaderboard insights. Users will have the flexibility to choose between Stripe or SolanaPay for registration convenience. The leaderboard provides a comprehensive overview of community engagement, including the top 5 members, with the added benefit of filtering by username and community. This innovative app harnesses the power of the Discord API, putting you in control of a dynamic jackpot experience with state manipulation at its core, elevates users’ Discord server and boosts member engagement.",
+      "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "https://getjackpot.xyz/"
+    },
+    {
+      "id": "5",
+      "title": "Project4 ( ReactJS )",
+      "description": "Developed this platform which acts as a broker site where a user can bid any of the products from the Stockx Marketplace. DevExpress data table is used for presenting product listing, in which a user can perform filter, sort, search & pagination via Server Side API calls.",
       "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
       "url": "https://projec4mc.com/"
     },
     {
-      "id": "4",
-      "title": "AlphaResort",
-      "description": "Next.js",
+      "id": "6",
+      "title": "Curious Check ( ReactJS )",
+      "description": "Developed & tested several components for this application where a user who is looking for background checks, can be matched with a vendor who is best qualified to help the customer.",
+      "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "https://www.curiouscheck.com/"
+    },
+    {
+      "id": "7",
+      "title": "Sakthi ( jQuery )",
+      "description": "Developed & tested several components for this website which is developed for a UK based store for selling Sakthi Merchandise.",
+      "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "http://77.68.10.137/"
+    },
+    {
+      "id": "8",
+      "title": "AlphaResort ( Next.js )",
+      "description": "Developed Multi-tenant software as a service which is separated by subdomain for each customer. Each customer configuration needs a customizable form for each type: Hotel Guests, Owners & Vendors.",
       "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
       "url": "http://registration.shorescoa.com"
     },
     {
-      "id": "5",
-      "title": "SecureFin",
-      "description": "ReactJS",
+      "id": "9",
+      "title": "SecureFin ( ReactJS )",
+      "description": "Developed Communication platform for Real Estate Brokers to fill out the Clients’ data needed for Real Estate Deals",
       "imageSrc": "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
       "url": "https://securefin.homesearchbymortgage.com/survey/4da9c6f7- 74ac-433d-9773-7f63f5d37778/124/"
     },
     {
-      "id": "6",
-      "title": "Curious Check",
-      "description": "ReactJS",
-      "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "https://curious-check-app-dev.herokuapp.com/"
-    },
-    {
-      "id": "7",
-      "title": "Great Quotes",
-      "description": "ReactJS",
+      "id": "10",
+      "title": "Great Quotes ( ReactJS )",
+      "description": "This is a personal project website to add quotes and corresponding authors. We can also view all the quotes and the corresponding authors and sort them. There’s also detail page and comment section for each Quote.",
       "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
       "url": "https://react-prep-35e11.web.app/"
     },
     {
-      "id": "8",
-      "title": "React Meetups",
-      "description": "Next.js",
+      "id": "11",
+      "title": "React Meetups ( Next.js )",
+      "description": "This is a personal project website to add meetups and corresponding details of the meetup. We can also view all the Meetups as a list. Each Meetup has a detail page to view their details.",
       "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
       "url": "https://nextjs-meetups-three.vercel.app/"
     }
@@ -105,7 +126,7 @@
       "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
     }
   ],
-  "aboutpara": "Design and implement user interface components for JavaScript-based web and mobile applications using the React open-source library ecosystem. Also involved in all stages of interface component design, from conception through to final testing.",
+  "aboutpara": "I Design and implement user interface components for JavaScript-based web and mobile applications using the React open-source library ecosystem. Also, I will be involved in all stages of interface component design, from conception through to final testing.",
   "resume": {
     "tagline": "👋  I'm a software engineer, product designer.",
     "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
